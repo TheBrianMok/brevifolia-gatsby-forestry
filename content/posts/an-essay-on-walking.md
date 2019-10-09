@@ -1,8 +1,17 @@
 ---
-date: 2019-07-31T22:43:31Z
+date: 2019-07-31T22:43:31.000+00:00
 title: An Essay on Walking
 author: Robert Thoreau
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
+gallery:
+- "/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg"
+- "/content/images/elcarito-CRn-_80z4SE-unsplash.jpg"
+- "/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg"
+- "/content/images/max-di-capua-AhHICglxxx8-unsplash.jpg"
+- "/content/images/ruslan-bardash-g83y6do219w-unsplash.jpg"
+- "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
+- "/content/images/kunj-parekh-H69EgivmCjE-unsplash.jpg"
+- "/content/images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 
 ---
 Then it is that I appreciate the beauty and the glory of architecture, which itself never turns in, but forever stands out and erect, keeping watch over the slumberers.
